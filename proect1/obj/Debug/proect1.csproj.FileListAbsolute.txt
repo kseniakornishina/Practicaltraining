@@ -1,0 +1,67 @@
+C:\Users\Студент\Desktop\proect1\bin\Debug\proect1.exe.config
+C:\Users\Студент\Desktop\proect1\bin\Debug\proect1.exe
+C:\Users\Студент\Desktop\proect1\bin\Debug\proect1.pdb
+C:\Users\Студент\Desktop\proect1\obj\Debug\proect1.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\proect1\obj\Debug\proect1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Студент\Desktop\proect1\obj\Debug\proect1.Changes.resources
+C:\Users\Студент\Desktop\proect1\obj\Debug\proect1.Data_page.resources
+C:\Users\Студент\Desktop\proect1\obj\Debug\proect1.Form1.resources
+C:\Users\Студент\Desktop\proect1\obj\Debug\proect1.Profile.resources
+C:\Users\Студент\Desktop\proect1\obj\Debug\proect1.Properties.Resources.resources
+C:\Users\Студент\Desktop\proect1\obj\Debug\proect1.Registration.resources
+C:\Users\Студент\Desktop\proect1\obj\Debug\proect1.csproj.GenerateResource.cache
+C:\Users\Студент\Desktop\proect1\obj\Debug\proect1.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\proect1\obj\Debug\proect1.exe
+C:\Users\Студент\Desktop\proect1\obj\Debug\proect1.pdb
+C:\Users\Студент\Desktop\proect1\obj\Debug\proect1.Main_menu.resources
+C:\Users\User\OneDrive\Рабочий стол\proect1\bin\Debug\proect1.exe.config
+C:\Users\User\OneDrive\Рабочий стол\proect1\bin\Debug\proect1.exe
+C:\Users\User\OneDrive\Рабочий стол\proect1\bin\Debug\proect1.pdb
+C:\Users\User\OneDrive\Рабочий стол\proect1\obj\Debug\proect1.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\proect1\obj\Debug\proect1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Рабочий стол\proect1\obj\Debug\proect1.Changes.resources
+C:\Users\User\OneDrive\Рабочий стол\proect1\obj\Debug\proect1.Data_page.resources
+C:\Users\User\OneDrive\Рабочий стол\proect1\obj\Debug\proect1.Form1.resources
+C:\Users\User\OneDrive\Рабочий стол\proect1\obj\Debug\proect1.Main_menu.resources
+C:\Users\User\OneDrive\Рабочий стол\proect1\obj\Debug\proect1.Profile.resources
+C:\Users\User\OneDrive\Рабочий стол\proect1\obj\Debug\proect1.Properties.Resources.resources
+C:\Users\User\OneDrive\Рабочий стол\proect1\obj\Debug\proect1.Registration.resources
+C:\Users\User\OneDrive\Рабочий стол\proect1\obj\Debug\proect1.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Рабочий стол\proect1\obj\Debug\proect1.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\proect1\obj\Debug\proect1.exe
+C:\Users\User\OneDrive\Рабочий стол\proect1\obj\Debug\proect1.pdb
+C:\Users\User\OneDrive\Рабочий стол\proect1\bin\Debug\Data\dataG.txt
+C:\Users\user\Desktop\proect1\bin\Debug\Data\dataG.txt
+C:\Users\user\Desktop\proect1\bin\Debug\proect1.exe.config
+C:\Users\user\Desktop\proect1\bin\Debug\proect1.exe
+C:\Users\user\Desktop\proect1\bin\Debug\proect1.pdb
+C:\Users\user\Desktop\proect1\obj\Debug\proect1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\proect1\obj\Debug\proect1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\proect1\obj\Debug\proect1.Changes.resources
+C:\Users\user\Desktop\proect1\obj\Debug\proect1.Data_page.resources
+C:\Users\user\Desktop\proect1\obj\Debug\proect1.Form1.resources
+C:\Users\user\Desktop\proect1\obj\Debug\proect1.Main_menu.resources
+C:\Users\user\Desktop\proect1\obj\Debug\proect1.Profile.resources
+C:\Users\user\Desktop\proect1\obj\Debug\proect1.Properties.Resources.resources
+C:\Users\user\Desktop\proect1\obj\Debug\proect1.Registration.resources
+C:\Users\user\Desktop\proect1\obj\Debug\proect1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\proect1\obj\Debug\proect1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\proect1\obj\Debug\proect1.exe
+C:\Users\user\Desktop\proect1\obj\Debug\proect1.pdb
+C:\Users\user\Desktop\Практика\proect1\bin\Debug\Data\dataG.txt
+C:\Users\user\Desktop\Практика\proect1\bin\Debug\proect1.exe.config
+C:\Users\user\Desktop\Практика\proect1\bin\Debug\proect1.exe
+C:\Users\user\Desktop\Практика\proect1\bin\Debug\proect1.pdb
+C:\Users\user\Desktop\Практика\proect1\obj\Debug\proect1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Практика\proect1\obj\Debug\proect1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Практика\proect1\obj\Debug\proect1.Changes.resources
+C:\Users\user\Desktop\Практика\proect1\obj\Debug\proect1.Data_page.resources
+C:\Users\user\Desktop\Практика\proect1\obj\Debug\proect1.Form1.resources
+C:\Users\user\Desktop\Практика\proect1\obj\Debug\proect1.Main_menu.resources
+C:\Users\user\Desktop\Практика\proect1\obj\Debug\proect1.Profile.resources
+C:\Users\user\Desktop\Практика\proect1\obj\Debug\proect1.Properties.Resources.resources
+C:\Users\user\Desktop\Практика\proect1\obj\Debug\proect1.Registration.resources
+C:\Users\user\Desktop\Практика\proect1\obj\Debug\proect1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Практика\proect1\obj\Debug\proect1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Практика\proect1\obj\Debug\proect1.exe
+C:\Users\user\Desktop\Практика\proect1\obj\Debug\proect1.pdb
